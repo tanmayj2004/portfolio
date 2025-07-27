@@ -8,7 +8,7 @@ import node from "../../assets/skills/node.png";
 import mongodb from "../../assets/skills/mongodb.png";
 import cloud from "../../assets/history/cloud.avif";
 import google from "../../assets/history/google.png";
-import electromob from "../../assets/history/Electromob";
+import electromob from "../../assets/history/Electromob.png"
 import styles from "./Experience.module.css";
 
 const skills = [
