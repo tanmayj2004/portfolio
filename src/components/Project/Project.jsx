@@ -15,7 +15,7 @@ const projects =
       "imageSrc": project1,
       "description": " A project to learn modern web technologies by building a travel platform.",
       "skills": ["MongoDb", "Express", "Node"],
-      "demo": "https://wanderlust-dvx2.onrender.com/",
+      "demo": "https://wanderlust-es8m.onrender.com",
       "source": "https://github.com/tanmayj2004/Wanderlust"
     },
     {
@@ -23,7 +23,7 @@ const projects =
       "imageSrc": project2,
       "description": "Designed and developed an AI-powered chatbot to simulate conversational interactions.",
       "skills": ["HTML", "CSS", "JavaScript"],
-      "demo": "https://www.example.com",
+      "demo": "https://elara-chatbot.vercel.app/",
       "source": "https://github.com/tanmayj2004/Elara-chatbot"
     },
     {
@@ -39,7 +39,7 @@ const projects =
       "imageSrc": project4,
       "description": "Developed and maintained scalable REST APIs, optimized database operations, and integrated third-party services to enhance system performance.",
       "skills": ["React", "Express", "Node","MongoDB"],
-      //"demo": "https://tanmayjain.vercel.app",
+      "demo": "https://tanmayjain.vercel.app",
       "source": "https://github.com/tanmayj2004/Tuk-Tuk"
     }
   ]
